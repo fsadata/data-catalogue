@@ -1,0 +1,28 @@
+{
+	"fields": [
+		{
+			"name": "Asset",
+			"title": "Asset",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "AssetTitle",
+			"title": "AssetTitle",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Dataset",
+			"title": "Dataset",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		}
+	]
+}
